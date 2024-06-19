@@ -2,7 +2,7 @@ POST /solr/findingaids/update?wt=ruby HTTP/1.1
 Content-Type: text/xml
 Connection: close
 Host: localhost:8983
-Content-Length: 3787
+Content-Length: 3759
 
 <?xml version="1.0" encoding="UTF-8"?><add><doc><field name="id">ms3241_champion_georgeaspace_6225db748013d823db5495335f4d9dfe</field><field name="ead_ssi">ms3241_champion_george</field><field name="component_level_isim">1</field><field name="component_children_bsi">false</field><field name="collection_sim">George Champion papers</field><field name="collection_ssm">George Champion papers</field><field name="collection_unitid_ssm">MS 3241</field><field name="level_sim">file</field><field name="unittitle_ssm">
       &lt;strong&gt;Newspaper clippings&lt;/strong&gt;
@@ -38,7 +38,7 @@ Content-Length: 3787
 
 •	"Billy Graham &amp; Co. to Invade New York," Pittsburgh Press, May 11, 1957 ("While Dr. Graham has long wanted to conduct a crusade in the greatest city in the world, he conscientiously waited until he was actually invited to do so. The invitation was extended by a committee, partly made up of local New York church leaders and partly of business executives. It is headed by George Champion, president of the huge Chase Manhattan Bank.")
 
-•	"Hometowners' Appraisal: Newsboys from Bloomington, Ill., look over copies of Chase Manhattan News, publication of Chase Manhattan Bank, as George Champion, president of the bank and a native son of Bloomington, awaits comment," New York World-Telegram and Sun, Dec. 11, 1957 [2 photocopies]</field><field name="ref_ssi">aspace_6225db748013d823db5495335f4d9dfe</field><field name="repository_ssi">nyhs</field><field name="repository_sim">nyhs</field><field name="repository_ssm">nyhs</field><field name="format_sim">Archival Object</field><field name="format_ssm">Archival Object</field><field name="location_ssm">Offsite-Box: 2, Folder: 1</field><field name="location_ssm">Folder: 1</field><field name="location_si">Folder: 1</field><field name="collection_teim">George Champion papers</field><field name="collection_unitid_teim">MS 3241</field><field name="series_si">
+•	"Hometowners' Appraisal: Newsboys from Bloomington, Ill., look over copies of Chase Manhattan News, publication of Chase Manhattan Bank, as George Champion, president of the bank and a native son of Bloomington, awaits comment," New York World-Telegram and Sun, Dec. 11, 1957 [2 photocopies]</field><field name="ref_ssi">aspace_6225db748013d823db5495335f4d9dfe</field><field name="repository_ssi">nyhs</field><field name="repository_sim">nyhs</field><field name="repository_ssm">nyhs</field><field name="format_sim">Archival Object</field><field name="format_ssm">Archival Object</field><field name="location_ssm">Offsite-Box: 2, Folder: 1</field><field name="location_si">Offsite-Box: 2, Folder: 1</field><field name="collection_teim">George Champion papers</field><field name="collection_unitid_teim">MS 3241</field><field name="series_si">
       &lt;strong&gt;Newspaper clippings&lt;/strong&gt;
     </field><field name="heading_ssm">
       Newspaper clippings

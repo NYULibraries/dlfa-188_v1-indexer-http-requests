@@ -2,7 +2,7 @@ POST /solr/findingaids/update?wt=ruby HTTP/1.1
 Content-Type: text/xml
 Connection: close
 Host: localhost:8983
-Content-Length: 2753
+Content-Length: 2724
 
 <?xml version="1.0" encoding="UTF-8"?><add><doc><field name="id">pr276_bernard_gotfrydaspace_ref830_6vp</field><field name="ead_ssi">pr276_bernard_gotfryd</field><field name="parent_ssi">aspace_ref663_0vb</field><field name="parent_ssm">aspace_ref11_5jq</field><field name="parent_ssm">aspace_ref663_0vb</field><field name="parent_unittitles_ssm">Series I.  Slides
 
@@ -30,7 +30,7 @@ Queens - Forest Hills
 Roosevelt Island
 Times Square
 Washington Heights
-</field><field name="unitdate_teim">1976-1984</field><field name="ref_ssi">aspace_ref830_6vp</field><field name="repository_ssi">nyhs</field><field name="repository_sim">nyhs</field><field name="repository_ssm">nyhs</field><field name="format_sim">Archival Object</field><field name="format_ssm">Archival Object</field><field name="location_ssm">Offsite-Box: 5, Folder: 57</field><field name="location_ssm">Folder: 57</field><field name="location_si">Folder: 57</field><field name="collection_teim">Bernard Gotfryd photograph collection</field><field name="collection_unitid_teim">PR 276</field><field name="series_sim">Series I.  Slides
+</field><field name="unitdate_teim">1976-1984</field><field name="ref_ssi">aspace_ref830_6vp</field><field name="repository_ssi">nyhs</field><field name="repository_sim">nyhs</field><field name="repository_ssm">nyhs</field><field name="format_sim">Archival Object</field><field name="format_ssm">Archival Object</field><field name="location_ssm">Offsite-Box: 5, Folder: 57</field><field name="location_si">Offsite-Box: 5, Folder: 57</field><field name="collection_teim">Bernard Gotfryd photograph collection</field><field name="collection_unitid_teim">PR 276</field><field name="series_sim">Series I.  Slides
 
 </field><field name="series_sim">Subseries I.3 - Subjects - New York City</field><field name="series_si">Series I.  Slides
 

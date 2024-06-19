@@ -2,7 +2,7 @@ POST /solr/findingaids/update?wt=ruby HTTP/1.1
 Content-Type: text/xml
 Connection: close
 Host: localhost:8983
-Content-Length: 2117
+Content-Length: 2089
 
 <?xml version="1.0" encoding="UTF-8"?><add><doc><field name="id">ms3241_champion_georgeaspace_e46070126679b25ab6d7e6f8cb5c2e4c</field><field name="ead_ssi">ms3241_champion_george</field><field name="component_level_isim">1</field><field name="component_children_bsi">false</field><field name="collection_sim">George Champion papers</field><field name="collection_ssm">George Champion papers</field><field name="collection_unitid_ssm">MS 3241</field><field name="level_sim">file</field><field name="unittitle_ssm">
       &lt;strong&gt;Congressional testimony&lt;/strong&gt;
@@ -12,7 +12,7 @@ Content-Length: 2117
 
 •	Testimony of George Champion, Retired Chairman, The Chase Manhattan Bank, Before the Senate Banking Committee, Feb. 15, 1983.
 
-•	Testimony of George Champion before the House Appropriations Committee Subcommittee on Foreign Operations, Sep. 20, 1983 [2 copies].</field><field name="ref_ssi">aspace_e46070126679b25ab6d7e6f8cb5c2e4c</field><field name="repository_ssi">nyhs</field><field name="repository_sim">nyhs</field><field name="repository_ssm">nyhs</field><field name="format_sim">Archival Object</field><field name="format_ssm">Archival Object</field><field name="location_ssm">Offsite-Box: 1, Folder: 8</field><field name="location_ssm">Folder: 8</field><field name="location_si">Folder: 8</field><field name="collection_teim">George Champion papers</field><field name="collection_unitid_teim">MS 3241</field><field name="series_si">
+•	Testimony of George Champion before the House Appropriations Committee Subcommittee on Foreign Operations, Sep. 20, 1983 [2 copies].</field><field name="ref_ssi">aspace_e46070126679b25ab6d7e6f8cb5c2e4c</field><field name="repository_ssi">nyhs</field><field name="repository_sim">nyhs</field><field name="repository_ssm">nyhs</field><field name="format_sim">Archival Object</field><field name="format_ssm">Archival Object</field><field name="location_ssm">Offsite-Box: 1, Folder: 8</field><field name="location_si">Offsite-Box: 1, Folder: 8</field><field name="collection_teim">George Champion papers</field><field name="collection_unitid_teim">MS 3241</field><field name="series_si">
       &lt;strong&gt;Congressional testimony&lt;/strong&gt;
     </field><field name="heading_ssm">
       Congressional testimony

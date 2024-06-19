@@ -2,7 +2,7 @@ POST /solr/findingaids/update?wt=ruby HTTP/1.1
 Content-Type: text/xml
 Connection: close
 Host: localhost:8983
-Content-Length: 3638
+Content-Length: 3609
 
 <?xml version="1.0" encoding="UTF-8"?><add><doc><field name="id">ms3241_champion_georgeaspace_9c0a09b6a021355a0dd57ad4151c84c9</field><field name="ead_ssi">ms3241_champion_george</field><field name="component_level_isim">1</field><field name="component_children_bsi">false</field><field name="collection_sim">George Champion papers</field><field name="collection_ssm">George Champion papers</field><field name="collection_unitid_ssm">MS 3241</field><field name="level_sim">file</field><field name="unittitle_ssm">
       &lt;strong&gt;Invitations and programs&lt;/strong&gt;
@@ -30,7 +30,7 @@ Content-Length: 3638
 
 •	Committee Dinner of the Second Panel Sheriffs Jury, Thursday, January twentieth, Nineteen hundred and seventy-two . . . George Champion.
 
-•	The President and Mrs. Nixon request the pleasure of the company of Mr and Mrs Champion at dinner on Friday evening, Jan. 28, 1972.</field><field name="ref_ssi">aspace_9c0a09b6a021355a0dd57ad4151c84c9</field><field name="repository_ssi">nyhs</field><field name="repository_sim">nyhs</field><field name="repository_ssm">nyhs</field><field name="format_sim">Archival Object</field><field name="format_ssm">Archival Object</field><field name="location_ssm">Offsite-Box: 1, Folder: 21</field><field name="location_ssm">Folder: 21</field><field name="location_si">Folder: 21</field><field name="collection_teim">George Champion papers</field><field name="collection_unitid_teim">MS 3241</field><field name="series_si">
+•	The President and Mrs. Nixon request the pleasure of the company of Mr and Mrs Champion at dinner on Friday evening, Jan. 28, 1972.</field><field name="ref_ssi">aspace_9c0a09b6a021355a0dd57ad4151c84c9</field><field name="repository_ssi">nyhs</field><field name="repository_sim">nyhs</field><field name="repository_ssm">nyhs</field><field name="format_sim">Archival Object</field><field name="format_ssm">Archival Object</field><field name="location_ssm">Offsite-Box: 1, Folder: 21</field><field name="location_si">Offsite-Box: 1, Folder: 21</field><field name="collection_teim">George Champion papers</field><field name="collection_unitid_teim">MS 3241</field><field name="series_si">
       &lt;strong&gt;Invitations and programs&lt;/strong&gt;
     </field><field name="heading_ssm">
       Invitations and programs

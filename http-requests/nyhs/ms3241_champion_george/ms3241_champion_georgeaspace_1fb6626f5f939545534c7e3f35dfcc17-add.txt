@@ -2,7 +2,7 @@ POST /solr/findingaids/update?wt=ruby HTTP/1.1
 Content-Type: text/xml
 Connection: close
 Host: localhost:8983
-Content-Length: 4690
+Content-Length: 4662
 
 <?xml version="1.0" encoding="UTF-8"?><add><doc><field name="id">ms3241_champion_georgeaspace_1fb6626f5f939545534c7e3f35dfcc17</field><field name="ead_ssi">ms3241_champion_george</field><field name="component_level_isim">1</field><field name="component_children_bsi">false</field><field name="collection_sim">George Champion papers</field><field name="collection_ssm">George Champion papers</field><field name="collection_unitid_ssm">MS 3241</field><field name="level_sim">file</field><field name="unittitle_ssm">
       &lt;strong&gt;Newspaper clippings&lt;/strong&gt;
@@ -65,7 +65,7 @@ Content-Length: 4690
 
 •	"Ready, Aim, Fire," Daily News, Jan. 17, 1978
 
-•	"Our failing schools," Daily News, Oct. 18, 1979 [original + photocopy]</field><field name="ref_ssi">aspace_1fb6626f5f939545534c7e3f35dfcc17</field><field name="repository_ssi">nyhs</field><field name="repository_sim">nyhs</field><field name="repository_ssm">nyhs</field><field name="format_sim">Archival Object</field><field name="format_ssm">Archival Object</field><field name="location_ssm">Offsite-Box: 2, Folder: 3</field><field name="location_ssm">Folder: 3</field><field name="location_si">Folder: 3</field><field name="collection_teim">George Champion papers</field><field name="collection_unitid_teim">MS 3241</field><field name="series_si">
+•	"Our failing schools," Daily News, Oct. 18, 1979 [original + photocopy]</field><field name="ref_ssi">aspace_1fb6626f5f939545534c7e3f35dfcc17</field><field name="repository_ssi">nyhs</field><field name="repository_sim">nyhs</field><field name="repository_ssm">nyhs</field><field name="format_sim">Archival Object</field><field name="format_ssm">Archival Object</field><field name="location_ssm">Offsite-Box: 2, Folder: 3</field><field name="location_si">Offsite-Box: 2, Folder: 3</field><field name="collection_teim">George Champion papers</field><field name="collection_unitid_teim">MS 3241</field><field name="series_si">
       &lt;strong&gt;Newspaper clippings&lt;/strong&gt;
     </field><field name="heading_ssm">
       Newspaper clippings

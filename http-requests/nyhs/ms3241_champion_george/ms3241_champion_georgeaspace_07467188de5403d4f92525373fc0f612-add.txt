@@ -2,7 +2,7 @@ POST /solr/findingaids/update?wt=ruby HTTP/1.1
 Content-Type: text/xml
 Connection: close
 Host: localhost:8983
-Content-Length: 3542
+Content-Length: 3514
 
 <?xml version="1.0" encoding="UTF-8"?><add><doc><field name="id">ms3241_champion_georgeaspace_07467188de5403d4f92525373fc0f612</field><field name="ead_ssi">ms3241_champion_george</field><field name="component_level_isim">1</field><field name="component_children_bsi">false</field><field name="collection_sim">George Champion papers</field><field name="collection_ssm">George Champion papers</field><field name="collection_unitid_ssm">MS 3241</field><field name="level_sim">file</field><field name="unittitle_ssm">
       &lt;strong&gt;Periodical articles—by George Champion&lt;/strong&gt;
@@ -38,7 +38,7 @@ Content-Length: 3542
 
 •	"Chase Manhattan's approach to multinational banking. A joint statement to multinational companies by Chairman Champion and President Rockefeller," Forbes, May 1, [year lacking].
 
-•	"Will the Real America Please Stand Up?," [Reader's Digest?], undated.</field><field name="ref_ssi">aspace_07467188de5403d4f92525373fc0f612</field><field name="repository_ssi">nyhs</field><field name="repository_sim">nyhs</field><field name="repository_ssm">nyhs</field><field name="format_sim">Archival Object</field><field name="format_ssm">Archival Object</field><field name="location_ssm">Offsite-Box: 2, Folder: 8</field><field name="location_ssm">Folder: 8</field><field name="location_si">Folder: 8</field><field name="collection_teim">George Champion papers</field><field name="collection_unitid_teim">MS 3241</field><field name="series_si">
+•	"Will the Real America Please Stand Up?," [Reader's Digest?], undated.</field><field name="ref_ssi">aspace_07467188de5403d4f92525373fc0f612</field><field name="repository_ssi">nyhs</field><field name="repository_sim">nyhs</field><field name="repository_ssm">nyhs</field><field name="format_sim">Archival Object</field><field name="format_ssm">Archival Object</field><field name="location_ssm">Offsite-Box: 2, Folder: 8</field><field name="location_si">Offsite-Box: 2, Folder: 8</field><field name="collection_teim">George Champion papers</field><field name="collection_unitid_teim">MS 3241</field><field name="series_si">
       &lt;strong&gt;Periodical articles—by George Champion&lt;/strong&gt;
     </field><field name="heading_ssm">
       Periodical articles—by George Champion

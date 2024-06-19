@@ -2,7 +2,7 @@ POST /solr/findingaids/update?wt=ruby HTTP/1.1
 Content-Type: text/xml
 Connection: close
 Host: localhost:8983
-Content-Length: 2494
+Content-Length: 2465
 
 <?xml version="1.0" encoding="UTF-8"?><add><doc><field name="id">ms3241_champion_georgeaspace_85dd2343c05db8adb5ae076bdb620d1d</field><field name="ead_ssi">ms3241_champion_george</field><field name="component_level_isim">1</field><field name="component_children_bsi">false</field><field name="collection_sim">George Champion papers</field><field name="collection_ssm">George Champion papers</field><field name="collection_unitid_ssm">MS 3241</field><field name="level_sim">file</field><field name="unittitle_ssm">
       &lt;strong&gt;Photographs&lt;/strong&gt;
@@ -28,7 +28,7 @@ Content-Length: 2494
 
 •	George Champion receiving First Class Order of the Sacred Treasure from Government of Japan (1969 Oct. 7). [Seven images. See documentation (Box 1, Folder 4) and insignia (Box 4, Enclosure 1).]
 
-•	George Champion at "Tribute of a Grateful Nation" ceremony with President and Mrs. Nixon, Mamie Eisenhower, and Herbert Brownell (1969 Oct. 14).</field><field name="ref_ssi">aspace_85dd2343c05db8adb5ae076bdb620d1d</field><field name="repository_ssi">nyhs</field><field name="repository_sim">nyhs</field><field name="repository_ssm">nyhs</field><field name="format_sim">Archival Object</field><field name="format_ssm">Archival Object</field><field name="location_ssm">Offsite-Box: 2, Folder: 10</field><field name="location_ssm">Folder: 10</field><field name="location_si">Folder: 10</field><field name="collection_teim">George Champion papers</field><field name="collection_unitid_teim">MS 3241</field><field name="series_si">
+•	George Champion at "Tribute of a Grateful Nation" ceremony with President and Mrs. Nixon, Mamie Eisenhower, and Herbert Brownell (1969 Oct. 14).</field><field name="ref_ssi">aspace_85dd2343c05db8adb5ae076bdb620d1d</field><field name="repository_ssi">nyhs</field><field name="repository_sim">nyhs</field><field name="repository_ssm">nyhs</field><field name="format_sim">Archival Object</field><field name="format_ssm">Archival Object</field><field name="location_ssm">Offsite-Box: 2, Folder: 10</field><field name="location_si">Offsite-Box: 2, Folder: 10</field><field name="collection_teim">George Champion papers</field><field name="collection_unitid_teim">MS 3241</field><field name="series_si">
       &lt;strong&gt;Photographs&lt;/strong&gt;
     </field><field name="heading_ssm">
       Photographs
