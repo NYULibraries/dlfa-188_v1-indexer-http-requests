@@ -2,13 +2,13 @@ POST /solr/findingaids/update?wt=ruby HTTP/1.1
 Content-Type: text/xml
 Connection: close
 Host: localhost:8983
-Content-Length: 2174
+Content-Length: 2138
 
 <?xml version="1.0" encoding="UTF-8"?><add><doc><field name="id">arms_1974_120_currencyaspace_38301f5a6dbc862b212c0e1444065a69</field><field name="ead_ssi">arms_1974_120_currency</field><field name="component_level_isim">1</field><field name="component_children_bsi">false</field><field name="collection_sim">United States, Confederate States, and foreign currency collection</field><field name="collection_ssm">United States, Confederate States, and foreign currency collection</field><field name="collection_unitid_ssm">1974.120</field><field name="level_sim">file</field><field name="unittitle_ssm">
       An historical sketch of the paper money issued by Pennsylvania
     </field><field name="unittitle_teim">
       An historical sketch of the paper money issued by Pennsylvania
-    </field><field name="unitdate_normal_ssm">1862/1862</field><field name="unitdate_normal_teim">1862/1862</field><field name="unitdate_normal_sim">1862/1862</field><field name="unitdate_teim">1862</field><field name="ref_ssi">aspace_38301f5a6dbc862b212c0e1444065a69</field><field name="repository_ssi">cbh</field><field name="repository_sim">cbh</field><field name="repository_ssm">cbh</field><field name="format_sim">Archival Object</field><field name="format_ssm">Archival Object</field><field name="location_ssm">Box: 1, Folder: 4</field><field name="location_ssm">Folder: 4</field><field name="location_si">Folder: 4</field><field name="collection_teim">United States, Confederate States, and foreign currency collection</field><field name="collection_unitid_teim">1974.120</field><field name="series_si">
+    </field><field name="unitdate_normal_ssm">1862/1862</field><field name="unitdate_normal_teim">1862/1862</field><field name="unitdate_normal_sim">1862/1862</field><field name="unitdate_teim">1862</field><field name="ref_ssi">aspace_38301f5a6dbc862b212c0e1444065a69</field><field name="repository_ssi">cbh</field><field name="repository_sim">cbh</field><field name="repository_ssm">cbh</field><field name="format_sim">Archival Object</field><field name="format_ssm">Archival Object</field><field name="location_ssm">Box: 1, Folder: 4</field><field name="location_si">Box: 1, Folder: 4</field><field name="collection_teim">United States, Confederate States, and foreign currency collection</field><field name="collection_unitid_teim">1974.120</field><field name="series_si">
       An historical sketch of the paper money issued by Pennsylvania
     </field><field name="heading_ssm">
       An historical sketch of the paper money issued by Pennsylvania
