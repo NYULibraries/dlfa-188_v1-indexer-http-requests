@@ -2,13 +2,13 @@ POST /solr/findingaids/update?wt=ruby HTTP/1.1
 Content-Type: text/xml
 Connection: close
 Host: localhost:8983
-Content-Length: 2037
+Content-Length: 1954
 
 <?xml version="1.0" encoding="UTF-8"?><add><doc><field name="id">mss_523aspace_b8d5eba1173a1eb5347cb1ddd002a1ff</field><field name="ead_ssi">mss_523</field><field name="component_level_isim">1</field><field name="component_children_bsi">false</field><field name="collection_sim">MRNY Downtown Clubbing Collection</field><field name="collection_ssm">MRNY Downtown Clubbing Collection</field><field name="collection_unitid_ssm">MSS.523</field><field name="level_sim">file</field><field name="unittitle_ssm">
       &lt;em&gt;Circuit Noize&lt;/em&gt;
     </field><field name="unittitle_teim">
       Circuit Noize
-    </field><field name="unitdate_normal_ssm">2001/2010</field><field name="unitdate_normal_teim">2001/2010</field><field name="unitdate_normal_sim">2001/2010</field><field name="unitdate_inclusive_teim">2001- 2010</field><field name="ref_ssi">aspace_b8d5eba1173a1eb5347cb1ddd002a1ff</field><field name="repository_ssi">fales</field><field name="repository_sim">fales</field><field name="repository_ssm">fales</field><field name="format_sim">Archival Object</field><field name="format_ssm">Archival Object</field><field name="location_ssm">Box: 10, Folder: 5-8</field><field name="location_ssm">Folder: 5-8</field><field name="location_ssm">Box: 11, Folder: 1-2</field><field name="location_ssm">Folder: 1-2</field><field name="location_si">Folder: 1-2</field><field name="collection_teim">MRNY Downtown Clubbing Collection</field><field name="collection_unitid_teim">MSS.523</field><field name="series_si">
+    </field><field name="unitdate_normal_ssm">2001/2010</field><field name="unitdate_normal_teim">2001/2010</field><field name="unitdate_normal_sim">2001/2010</field><field name="unitdate_inclusive_teim">2001- 2010</field><field name="ref_ssi">aspace_b8d5eba1173a1eb5347cb1ddd002a1ff</field><field name="repository_ssi">fales</field><field name="repository_sim">fales</field><field name="repository_ssm">fales</field><field name="format_sim">Archival Object</field><field name="format_ssm">Archival Object</field><field name="location_ssm">Box: 10, Folder: 5-8</field><field name="location_ssm">Box: 11, Folder: 1-2</field><field name="location_si">Box: 11, Folder: 1-2</field><field name="collection_teim">MRNY Downtown Clubbing Collection</field><field name="collection_unitid_teim">MSS.523</field><field name="series_si">
       &lt;em&gt;Circuit Noize&lt;/em&gt;
     </field><field name="heading_ssm">
       Circuit Noize
