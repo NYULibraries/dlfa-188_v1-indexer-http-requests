@@ -2,7 +2,7 @@ POST /solr/findingaids/update?wt=ruby HTTP/1.1
 Content-Type: text/xml
 Connection: close
 Host: localhost:8983
-Content-Length: 2102
+Content-Length: 2071
 
 <?xml version="1.0" encoding="UTF-8"?><add><doc><field name="id">ad_mc_010aspace_ref91_60d</field><field name="ead_ssi">ad_mc_010</field><field name="parent_ssi">aspace_ref87_c0x</field><field name="parent_ssm">aspace_ref87_c0x</field><field name="parent_unittitles_ssm">Maps
 </field><field name="parent_unittitles_teim">Maps
@@ -10,6 +10,6 @@ Content-Length: 2102
 2. "The Oxford Map of Sudan: the Democratic Republic of Sudan with city maps of Khartoum and Omdurman," GEOprojects, 1980.
 3. "Moscou: Plan des transports urbains," Direction Générale de Géodésie et de Cartographie, 1988.
 4. "City Map of Sana," Survey Authority Sana--Ministry of Education, 1982.
-5. "Jugoslavija: Kosovo-Kosova," Tourist Association of Kosovo, date unknown.</field><field name="ref_ssi">aspace_ref91_60d</field><field name="repository_ssi">nyuad</field><field name="repository_sim">nyuad</field><field name="repository_ssm">nyuad</field><field name="format_sim">Archival Object</field><field name="format_ssm">Archival Object</field><field name="location_ssm">map-case: 2, drawer: E</field><field name="location_ssm">drawer: E</field><field name="location_si">drawer: E</field><field name="collection_teim">Chris Kutschera Ephemera Collection</field><field name="collection_unitid_teim">AD.MC.010</field><field name="series_sim">Maps
+5. "Jugoslavija: Kosovo-Kosova," Tourist Association of Kosovo, date unknown.</field><field name="ref_ssi">aspace_ref91_60d</field><field name="repository_ssi">nyuad</field><field name="repository_sim">nyuad</field><field name="repository_ssm">nyuad</field><field name="format_sim">Archival Object</field><field name="format_ssm">Archival Object</field><field name="location_ssm">map-case: 2, drawer: E</field><field name="location_si">map-case: 2, drawer: E</field><field name="collection_teim">Chris Kutschera Ephemera Collection</field><field name="collection_unitid_teim">AD.MC.010</field><field name="series_sim">Maps
 </field><field name="series_si">Maps
  &gt;&gt; Oman, Sudan, USSR, Yemen, Yugoslavia</field><field name="heading_ssm">Oman, Sudan, USSR, Yemen, Yugoslavia</field><field name="date_range_sim">undated &amp; other</field><field name="sort_ii">53</field></doc></add>
